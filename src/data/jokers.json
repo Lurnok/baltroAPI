@@ -1,0 +1,1202 @@
+[
+    {
+        "id": 1,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/e/ef/Joker.png?width=325",
+        "name": "Joker",
+        "rarity": "Common",
+        "effect": "+4 Mult.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 2,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/57/Greedy_joker.png?width=325",
+        "name": "Greedy Joker",
+        "rarity": "Common",
+        "effect": "Played cards with Diamond suit give +4 Mult when scored.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 3,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/4/4b/Lusty_joker.png?width=325",
+        "name": "Lusty Joker",
+        "rarity": "Common",
+        "effect": "Played cards with Heart suit give +4 Mult when scored.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 4,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/8/88/Wrathful_joker.png?width=325",
+        "name": "Wrathful Joker",
+        "rarity": "Common",
+        "effect": "Played cards with Spade suit give +4 Mult when scored.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 5,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/0/0d/Gluttonous_joker.png?width=325",
+        "name": "Gluttonous Joker",
+        "rarity": "Common",
+        "effect": "Played cards with Club suit give +4 Mult when scored.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 6,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/2/28/Jolly_joker.png?width=325",
+        "name": "Jolly Joker",
+        "rarity": "Common",
+        "effect": "+8 Mult if played hand contains a Pair.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 7,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/d/d2/Zany_joker.png?width=325",
+        "name": "Zany Joker",
+        "rarity": "Common",
+        "effect": "+12 Mult if played hand contains a Three of a Kind.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 8,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/a/a3/Mad_joker.png?width=325",
+        "name": "Mad Joker",
+        "rarity": "Common",
+        "effect": "+20 Mult if played hand contains a Four of a Kind.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 9,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/2/27/Crazy_joker.png?width=325",
+        "name": "Crazy Joker",
+        "rarity": "Common",
+        "effect": "+12 Mult if played hand contains a Straight.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 10,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/5b/Droll_joker.png?width=325",
+        "name": "Droll Joker",
+        "rarity": "Common",
+        "effect": "+10 Mult if played hand contains a Flush.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 11,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/3/3f/Balatro-sly_joker.png?width=325",
+        "name": "Sly Joker",
+        "rarity": "Common",
+        "effect": "+50 Chips if played hand contains a Pair.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 12,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/5c/Balatro-wily_joker.png?width=325",
+        "name": "Wily Joker",
+        "rarity": "Common",
+        "effect": "+100 Chips if played hand contains a Three of a Kind.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 13,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/3/3b/Balatro-clever_joker.png?width=325",
+        "name": "Clever Joker",
+        "rarity": "Common",
+        "effect": "+150 Chips if played hand contains a Four of a Kind.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 14,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/64/Balatro-devious_joker.png?width=325",
+        "name": "Devious Joker",
+        "rarity": "Common",
+        "effect": "+100 Chips if played hand contains a Straight.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 15,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/9/9c/Balatro-crafty_joker.png?width=325",
+        "name": "Crafty Joker",
+        "rarity": "Common",
+        "effect": "+80 Chips if played hand contains a Flush.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 16,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/9/95/Half_joker.png?width=325",
+        "name": "Half Joker",
+        "rarity": "Common",
+        "effect": "+20 Mult if played hand contains 3 or fewer cards.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 17,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/f/fc/Joker_stencil.png?width=325",
+        "name": "Joker Stencil",
+        "rarity": "Uncommon",
+        "effect": "X1 Mult for each empty ''Joker'' slot (Joker Stencil included).",
+        "availability": "Always available!"
+    },
+    {
+        "id": 18,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/1/18/Four_fingers.png?width=325",
+        "name": "Four Fingers",
+        "rarity": "Uncommon",
+        "effect": "All Flushes and Straights can be made with 4 cards.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 19,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/65/Mime.png?width=325",
+        "name": "Mime",
+        "rarity": "Uncommon",
+        "effect": "Retrigger all card held in hand abilities.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 20,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/52/Credit_card.png?width=325",
+        "name": "Credit Card",
+        "rarity": "Common",
+        "effect": "Go up to -$20 in debt.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 21,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/2/25/Ceremonial_dagger2.png?width=325",
+        "name": "Ceremonial Dagger",
+        "rarity": "Uncommon",
+        "effect": "When Blind is selected, destroy Joker to the right and permanently add double its sell value to this Mult.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 22,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/8/87/Banner.png?width=325",
+        "name": "Banner",
+        "rarity": "Common",
+        "effect": "+40 Chips for each remaining discard.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 23,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/c/c6/Mystic_summit.png?width=325",
+        "name": "Mystic Summit",
+        "rarity": "Common",
+        "effect": "+15 Mult when 0 discards remaining.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 24,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/1/14/Marble_joker.png?width=325",
+        "name": "Marble Joker",
+        "rarity": "Uncommon",
+        "effect": "Adds one Stone card to the deck when Blind is selected.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 25,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/f/f2/Loyalty_card.png?width=325",
+        "name": "Loyalty Card",
+        "rarity": "Uncommon",
+        "effect": "X4 Mult every 6 hands played.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 26,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/8/86/8_ball.png?width=325",
+        "name": "8 Ball",
+        "rarity": "Common",
+        "effect": "Create a Planet card if played hand contains 2 or more 8s.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 27,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/e/e1/Misprint.png?width=325",
+        "name": "Misprint",
+        "rarity": "Common",
+        "effect": "+Mult between 0 and 23.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 28,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/5d/Dusk.png?width=325",
+        "name": "Dusk",
+        "rarity": "Uncommon",
+        "effect": "Retrigger all played cards in final hand of round.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 29,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/7/7f/Raised_fist.png?width=325",
+        "name": "Raised Fist",
+        "rarity": "Common",
+        "effect": "Adds double the rank of lowest card held in hand to Mult.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 30,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/6f/Chaos_the_clown.png?width=325",
+        "name": "Chaos the Clown",
+        "rarity": "Common",
+        "effect": "1 free Reroll per shop.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 31,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/f/f1/Fibonacci.png?width=325",
+        "name": "Fibonacci",
+        "rarity": "Uncommon",
+        "effect": "Each played Ace, 2, 3, 5, or 8 gives +8 Mult when scored.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 32,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/0/09/Steel_joker.png?width=325",
+        "name": "Steel Joker",
+        "rarity": "Uncommon",
+        "effect": "This Joker gains X0.25 Mult for each Steel Card in your full deck.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 33,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/65/Scary_face.png?width=325",
+        "name": "Scary Face",
+        "rarity": "Common",
+        "effect": "Played face cards give +30 Chips when scored.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 34,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/64/Abstract_joker.png?width=325",
+        "name": "Abstract Joker",
+        "rarity": "Common",
+        "effect": "+3 Mult for each Joker card.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 35,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/8/8e/Delayed_gratification.png?width=325",
+        "name": "Delayed Gratification",
+        "rarity": "Common",
+        "effect": "Earn $2 per discard if no discards are used by end of the round.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 36,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/f/fd/Hack.png?width=325",
+        "name": "Hack",
+        "rarity": "Common",
+        "effect": "Retrigger each played 2, 3, 4, 5.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 37,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/8/81/Pareidolia.png?width=325",
+        "name": "Pareidolia",
+        "rarity": "Common",
+        "effect": "All cards are considered face cards.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 38,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/2/26/Gros_michel.png?width=325",
+        "name": "Gros Michel",
+        "rarity": "Common",
+        "effect": "+15 Mult 1 in 4 chance this card is destroyed at end of round.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 39,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/d/da/Even_steven.png?width=325",
+        "name": "Even Steven",
+        "rarity": "Common",
+        "effect": "Played cards with even rank give +4 Mult when scored.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 40,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/1/1a/Odd_todd.png?width=325",
+        "name": "Odd Todd",
+        "rarity": "Common",
+        "effect": "Played cards with odd rank give +30 Chips when scored.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 41,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/c/c5/Scholar.png?width=325",
+        "name": "Scholar",
+        "rarity": "Common",
+        "effect": "Played Aces give +20 Chips and +4 Mult when scored.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 42,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/4/47/Business_card.png?width=325",
+        "name": "Business Card",
+        "rarity": "Common",
+        "effect": "Played face cards have a 1 in 2 chance to give $2 when scored.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 43,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/3/30/Supernova.png?width=325",
+        "name": "Supernova",
+        "rarity": "Common",
+        "effect": "Adds the number of times poker hand has been played to Mult.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 44,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/5f/Ride_the_bus.png?width=325",
+        "name": "Ride the Bus",
+        "rarity": "Common",
+        "effect": "+1 Mult per consecutive hand played without a scoring face card.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 45,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/50/Space_joker.png?width=325",
+        "name": "Space Joker",
+        "rarity": "Uncommon",
+        "effect": "1 in 4 chance to upgrade level of played poker hand.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 46,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/2/26/Egg.png?width=325",
+        "name": "Egg",
+        "rarity": "Common",
+        "effect": "Gains $3 of sell value at end of round.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 47,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/2/29/Burglar.png?width=325",
+        "name": "Burglar",
+        "rarity": "Uncommon",
+        "effect": "When Blind is selected, gain +3 Hands and lose all discards.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 48,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/c/c6/Blackboard.png?width=325",
+        "name": "Blackboard",
+        "rarity": "Uncommon",
+        "effect": "X3 Mult if all cards held in hand are Spades or Clubs",
+        "availability": "Always available!"
+    },
+    {
+        "id": 49,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/1/14/Runner.png?width=325",
+        "name": "Runner",
+        "rarity": "Common",
+        "effect": "Gains +10 Chips if played hand contains a Straight.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 50,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/2/22/Ice_cream.png?width=325",
+        "name": "Ice Cream",
+        "rarity": "Common",
+        "effect": "+100 Chips -5 Chips for every hand played.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 51,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/4/47/DNA.png?width=325",
+        "name": "DNA",
+        "rarity": "Rare",
+        "effect": "If first hand of round has only 1 card, add a permanent copy to deck and draw it to hand.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 52,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/0/01/Splash.png?width=325",
+        "name": "Splash",
+        "rarity": "Common",
+        "effect": "Every played card counts in scoring.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 53,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/a/a5/Blue_joker.png?width=325",
+        "name": "Blue Joker",
+        "rarity": "Common",
+        "effect": "+2 Chips for each remaining card in deck.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 54,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/d/d4/Sixth_sense.png?width=325",
+        "name": "Sixth Sense",
+        "rarity": "Common",
+        "effect": "If first hand of round is a single 6, destroy it and create a Spectral card.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 55,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/69/Constellation.png?width=325",
+        "name": "Constellation",
+        "rarity": "Uncommon",
+        "effect": "Gains X0.1 Mult per Planet card used.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 56,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/a/a9/Hiker.png?width=325",
+        "name": "Hiker",
+        "rarity": "Uncommon",
+        "effect": "Every played card permanently gains +4 Chips when scored.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 57,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/3/30/Faceless_joker.png?width=325",
+        "name": "Faceless Joker",
+        "rarity": "Common",
+        "effect": "Earn $5 if 3 or more face cards are discarded at the same time.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 58,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/7/74/Green_joker.png?width=325",
+        "name": "Green Joker",
+        "rarity": "Common",
+        "effect": "+1 Mult per hand played -1 Mult per discard.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 59,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/68/Superposition.png?width=325",
+        "name": "Superposition",
+        "rarity": "Common",
+        "effect": "Create a Tarot card if poker hand contains an Ace and a Straight.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 60,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/0/02/To_do_list.png?width=325",
+        "name": "To Do List",
+        "rarity": "Common",
+        "effect": "Earn $5 if poker hand is a Two Pair, poker hand changes on every payout.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 61,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/1/13/Cavendish.png?width=325",
+        "name": "Cavendish",
+        "rarity": "Common",
+        "effect": "X3 Mult 1 in 1000 chance this card is destroyed at end of round.",
+        "availability": "Only has a chance to appear after Gros Michel destroys itself."
+    },
+    {
+        "id": 62,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/6a/Card_sharp.png?width=325",
+        "name": "Card Sharp",
+        "rarity": "Uncommon",
+        "effect": "X3 Mult if played poker hand has already been played this round.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 63,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/c/c0/Red_card.png?width=325",
+        "name": "Red Card",
+        "rarity": "Common",
+        "effect": "Gains +3 Mult when any Boost Pack is skipped.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 64,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/e/ee/Madness.png?width=325",
+        "name": "Madness",
+        "rarity": "Uncommon",
+        "effect": "When Blind is selected, gain X0.5 Mult and destroy a random Joker.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 65,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/9/96/Square_joker.png?width=325",
+        "name": "Square Joker",
+        "rarity": "Common",
+        "effect": "Gains +4 Chip if played hand has exactly 4 cards.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 66,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/58/Seance.png?width=325",
+        "name": "Séance",
+        "rarity": "Rare",
+        "effect": "If poker hand is a Straight Flush, create a random Spectral card.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 67,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/d/db/Riff_raff.png?width=325",
+        "name": "Riff-Raff",
+        "rarity": "Common",
+        "effect": "When Blind is selected, create 2 Common Jokers.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 68,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/4/4e/Vampire.png?width=325",
+        "name": "Vampire",
+        "rarity": "Uncommon",
+        "effect": "Gains X0.2 Mult per Enhanced card played, removes card Enhancement.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 69,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/8/89/Shortcut.png?width=325",
+        "name": "Shortcut",
+        "rarity": "Uncommon",
+        "effect": "Allows Straights to be made with gaps of 1 rank.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 70,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/c/c9/Hologram.png?width=325",
+        "name": "Hologram",
+        "rarity": "Uncommon",
+        "effect": "Gains X0.25 Mult per playing card added to your deck.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 71,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/e/e7/Vagabond.png?width=325",
+        "name": "Vagabond",
+        "rarity": "Uncommon",
+        "effect": "Create a Tarot card in hand is played with $3 or less.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 72,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/4/40/Baron.png?width=325",
+        "name": "Baron",
+        "rarity": "Rare",
+        "effect": "Each King held in hand gives X1.5 Mult.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 73,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/4/4a/Cloud_9.png?width=325",
+        "name": "Cloud 9",
+        "rarity": "Uncommon",
+        "effect": "Earn $1 for each 9 in your full deck at end of round.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 74,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/f/fb/Rocket.png?width=325",
+        "name": "Rocket",
+        "rarity": "Uncommon",
+        "effect": "Earn $1 at end of round. Gains $2 when Boss Blind is defeated.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 75,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/b/be/Obelisk.png?width=325",
+        "name": "Obelisk",
+        "rarity": "Rare",
+        "effect": "X0.2 Mult per consecutive hand played without playing your most played poker hand.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 76,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/0/09/Midas_mask.png?width=325",
+        "name": "Midas Mask",
+        "rarity": "Uncommon",
+        "effect": "All face cards become Gold cards when played.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 77,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/64/Luchador.png?width=325",
+        "name": "Luchador",
+        "rarity": "Uncommon",
+        "effect": "Sell this card to disable the current Boss Blind.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 78,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/0/06/Photograph.png?width=325",
+        "name": "Photograph",
+        "rarity": "Common",
+        "effect": "First played face card give X2 Mult when scored.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 79,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/55/Gift_card.png?width=325",
+        "name": "Gift Card",
+        "rarity": "Uncommon",
+        "effect": "Add $1 of sell value to every Joker and Consumable card at end round.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 80,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/9/95/Turtle_bean.png?width=325",
+        "name": "Turtle Bean",
+        "rarity": "Uncommon",
+        "effect": "+5 hand size, reduces by 1 every round.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 81,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/3/3a/Erosion.png?width=325",
+        "name": "Erosion",
+        "rarity": "Uncommon",
+        "effect": "+4 Mult for each card below 52 in your full deck.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 82,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/b/bf/Reserved_parking.png?width=325",
+        "name": "Reserved Parking",
+        "rarity": "Uncommon",
+        "effect": "Each face card held in hand has a 1 in 2 chance to give $1.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 83,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/6c/Mail_in_rebate.png?width=325",
+        "name": "Mail-In Rebate",
+        "rarity": "Common",
+        "effect": "Earn $3 for each discarded Ace, rank changes every round.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 84,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/3/3f/To_the_moon.png?width=325",
+        "name": "To the Moon",
+        "rarity": "Uncommon",
+        "effect": "Earn an extra $1 of interest for every $5 you have at end of round.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 85,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/b/bc/Hallucination.png?width=325",
+        "name": "Hallucination",
+        "rarity": "Common",
+        "effect": "1 in 2 chance to create a Tarot card when any Booster Pack is opened.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 86,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/53/Fortune_teller.png?width=325",
+        "name": "Fortune Teller",
+        "rarity": "Common",
+        "effect": "+1 Mult per Tarot card used this run.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 87,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/b/be/Juggler.png?width=325",
+        "name": "Juggler",
+        "rarity": "Common",
+        "effect": "+1 hand size.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 88,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/4/48/Drunkard.png?width=325",
+        "name": "Drunkard",
+        "rarity": "Common",
+        "effect": "+1 discard.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 89,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/69/Stone_joker.png?width=325",
+        "name": "Stone Joker",
+        "rarity": "Uncommon",
+        "effect": "This Joker gains +25 Chips for each Stone Card in your full deck.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 90,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/e/ec/Golden_joker.png?width=325",
+        "name": "Golden Joker",
+        "rarity": "Common",
+        "effect": "Earn $4 at end of round.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 91,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/b/bb/Lucky_cat.png?width=325",
+        "name": "Lucky Cat",
+        "rarity": "Uncommon",
+        "effect": "Gains X0.2 Mult each time a Lucky card successfully triggers.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 92,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/61/Baseball_card.png?width=325",
+        "name": "Baseball Card",
+        "rarity": "Rare",
+        "effect": "Uncommon Jokers each give X1.5 Mult.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 93,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/7/7a/Bull.png?width=325",
+        "name": "Bull",
+        "rarity": "Uncommon",
+        "effect": "+2 Chips for each dollar you have.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 94,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/c/cf/Diet_cola.png?width=325",
+        "name": "Diet Cola",
+        "rarity": "Uncommon",
+        "effect": "See this card to create a free Double Tag.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 95,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/2/28/Trading_card.png?width=325",
+        "name": "Trading Card",
+        "rarity": "Uncommon",
+        "effect": "If first discard of round has only 1 card, destroy it and earn $3.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 96,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/7/7b/Flash_card.png?width=325",
+        "name": "Flash Card",
+        "rarity": "Uncommon",
+        "effect": "+2 Mult per reroll in the shop.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 97,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/8/85/Popcorn.png?width=325",
+        "name": "Popcorn",
+        "rarity": "Common",
+        "effect": "+20 Mult -4 Mult per round played.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 98,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/b/b7/Spare_trousers.png?width=325",
+        "name": "Spare Trousers",
+        "rarity": "Uncommon",
+        "effect": "Gains +2 Mult if played hand contains a Two Pair.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 99,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/d/de/Ancient_joker.png?width=325",
+        "name": "Ancient Joker",
+        "rarity": "Rare",
+        "effect": "Each played card with Spade suit gives X1.5 Mult when scored, suit changes at end of round.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 100,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/f/f8/Ramen.png?width=325",
+        "name": "Ramen",
+        "rarity": "Uncommon",
+        "effect": "X2 Mult, loses X0.01 Mult per card discared.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 101,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/b/b2/Walkie_talkie.png?width=325",
+        "name": "Walkie Talkie",
+        "rarity": "Common",
+        "effect": "Each played 10 or 4 gives +10 Chips and +4 Mult when scored.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 102,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/69/Seltzer.png?width=325",
+        "name": "Seltzer",
+        "rarity": "Uncommon",
+        "effect": "Retrigger all cards played for the next 10 hands.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 103,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/1/1f/Castle.png?width=325",
+        "name": "Castle",
+        "rarity": "Uncommon",
+        "effect": "This Joker gains +3 Chips per discarded Spade card, suit changes every round.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 104,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/9/99/Smiley_face.png?width=325",
+        "name": "Smiley Face",
+        "rarity": "Common",
+        "effect": "Played face cards give +4 Mult when scored.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 105,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/0/01/Campfire.png?width=325",
+        "name": "Campfire",
+        "rarity": "Rare",
+        "effect": "This Joker gains X0.5 Mult for each card sold, resets when Boss Blind is defeated.",
+        "availability": "Always available!"
+    },
+    {
+        "id": 106,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/8/82/Golden_ticket.png?width=325",
+        "name": "Golden Ticket",
+        "rarity": "Common",
+        "effect": "Played Gold cards earn $3 when scored.",
+        "availability": "Play a 5 card hand that contains only Gold cards."
+    },
+    {
+        "id": 107,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/b/b4/Mr_bones.png?width=325",
+        "name": "Mr. Bones",
+        "rarity": "Uncommon",
+        "effect": "Prevents Death if chips scored are at least 25% of required chips. Self Destructs.",
+        "availability": "Lose 5 runs."
+    },
+    {
+        "id": 108,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/8/8f/Acrobat.png?width=325",
+        "name": "Acrobat",
+        "rarity": "Uncommon",
+        "effect": "X3 Mult on final hand of round.",
+        "availability": "Play 200 hands."
+    },
+    {
+        "id": 109,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/b/b3/Sock_and_buskin.png?width=325",
+        "name": "Sock and Buskin",
+        "rarity": "Uncommon",
+        "effect": "Retrigger all played face cards.",
+        "availability": "Play 300 face cards."
+    },
+    {
+        "id": 110,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/8/88/Swashbuckler.png?width=325",
+        "name": "Swashbuckler",
+        "rarity": "Common",
+        "effect": "Adds the sell value of all owned Jokers left of this card to Mult.",
+        "availability": "Sell 20 Joker cards."
+    },
+    {
+        "id": 111,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/64/Troubadour.png?width=325",
+        "name": "Troubadour",
+        "rarity": "Uncommon",
+        "effect": "+2 hand size, -1 hands per round.",
+        "availability": "Win 5 consecutive rounds by playing only 1 hand."
+    },
+    {
+        "id": 112,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/e/e5/Certificate.png?width=325",
+        "name": "Certificate",
+        "rarity": "Uncommon",
+        "effect": "When round begins add a random playing card with a random seal to your hand.",
+        "availability": "Have a Gold playing card with a Gold Seal."
+    },
+    {
+        "id": 113,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/0/00/Smeared_joker.png?width=325",
+        "name": "Smeared Joker",
+        "rarity": "Uncommon",
+        "effect": "Hearts and Diamonds count as the same suit,Spades and Clubs count as the same suits.",
+        "availability": "Have at least 3 Wild Card in your deck."
+    },
+    {
+        "id": 114,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/69/Throwback.png?width=325",
+        "name": "Throwback",
+        "rarity": "Uncommon",
+        "effect": "X0.025 Mult for each Blind skipped this run.",
+        "availability": "Continue a saved run from the main menu."
+    },
+    {
+        "id": 115,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/f/f1/Hanging_chad.png?width=325",
+        "name": "Hanging Chad",
+        "rarity": "Common",
+        "effect": "Retrigger first played card used in scoring.",
+        "availability": "Beat a Boss blind with a High Card."
+    },
+    {
+        "id": 116,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/8/8d/Rough_gem.png?width=325",
+        "name": "Rough Gem",
+        "rarity": "Uncommon",
+        "effect": "Played cards with Diamond suit earn $1 when scored.",
+        "availability": "Have at least 30 cards with Diamond suit in your deck."
+    },
+    {
+        "id": 117,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/0/00/Bloodstone.png?width=325",
+        "name": "Bloodstone",
+        "rarity": "Uncommon",
+        "effect": "1 in 3 chance for played cards with Heart suit to give X2 Mult when scored.",
+        "availability": "Have at least 30 cards with Heart suit in your deck."
+    },
+    {
+        "id": 118,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/d/d1/Arrowhead.png?width=325",
+        "name": "Arrowhead",
+        "rarity": "Uncommon",
+        "effect": "Played cards with Spade suit give +50 Chips when scored.",
+        "availability": "Have at least 30 cards with Spade suit in your deck."
+    },
+    {
+        "id": 119,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/1/12/Onyx_agate.png?width=325",
+        "name": "Onyx Agate",
+        "rarity": "Uncommon",
+        "effect": "Played cards with Club suit give +8 Mult.",
+        "availability": "Have at least 30 cards with Club suit in your deck."
+    },
+    {
+        "id": 120,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/b/bd/Glass_jokers.png?width=325",
+        "name": "Glass Joker",
+        "rarity": "Uncommon",
+        "effect": "Gains X0.5 Mult for every Glass Card that is destroyed.",
+        "availability": "Have at least 5 Glass Cards in your deck."
+    },
+    {
+        "id": 121,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/61/Showman.png?width=325",
+        "name": "Showman",
+        "rarity": "Uncommon",
+        "effect": "Joker, Tarot, Planet, and Spectral cards may appear multiple times.",
+        "availability": "Reach Ante level 4."
+    },
+    {
+        "id": 122,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/c/c6/Flower_pot.png?width=325",
+        "name": "Flower Pot",
+        "rarity": "Uncommon",
+        "effect": "X3 Mult if played hand has a scoring Diamond card, Club card, Heart card, and Spadecard.",
+        "availability": "Reach Ante level 8."
+    },
+    {
+        "id": 123,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/c/cf/Blueprint2.png?width=325",
+        "name": "Blueprint",
+        "rarity": "Rare",
+        "effect": "Copies ability of Jokers to the right.",
+        "availability": "Win a run."
+    },
+    {
+        "id": 124,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/7/77/Wee_joker.png?width=325",
+        "name": "Wee Joker",
+        "rarity": "Rare",
+        "effect": "This Joker gains +8 Chips when each played 2 is scored.",
+        "availability": "Win a run in 18 or fewer rounds."
+    },
+    {
+        "id": 125,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/b/b2/Merry_andy.png?width=325",
+        "name": "Merry Andy",
+        "rarity": "Uncommon",
+        "effect": "+3 discards, -1 hand size.",
+        "availability": "Win a run in 12 or fewer rounds."
+    },
+    {
+        "id": 126,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/7/72/Oops_all_6s.png?width=325",
+        "name": "Oops! All 6s",
+        "rarity": "Uncommon",
+        "effect": "Doubles all listed probabilities.",
+        "availability": "In one hand, earn at least 10,000 chips."
+    },
+    {
+        "id": 127,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/f/f9/The_idol.png?width=325",
+        "name": "The Idol",
+        "rarity": "Uncommon",
+        "effect": "Each played Ace of Spades gives X2 Mult when scored (card changes every round).",
+        "availability": "In one hand, earn at least 1,000,000 chips."
+    },
+    {
+        "id": 128,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/9/90/Seeing_double.png?width=325",
+        "name": "Seeing Double",
+        "rarity": "Uncommon",
+        "effect": "X2 Mult if played hand has a scoring Club card and a scoring card of any other suit.",
+        "availability": "Play a hand that contains four of 7 Clubs."
+    },
+    {
+        "id": 129,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/e/ec/Matador.png?width=325",
+        "name": "Matador",
+        "rarity": "Uncommon",
+        "effect": "Earn $8 if played hand triggers the Boss Blind ability.",
+        "availability": "Defeat a Boss Blind in 1 hand without using any discards."
+    },
+    {
+        "id": 130,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/c/c8/Hit_the_road.png?width=325",
+        "name": "Hit the Road",
+        "rarity": "Rare",
+        "effect": "Gains X0.5 Mult per discarded Jack this round.",
+        "availability": "Discard 5 Jacks at the same time."
+    },
+    {
+        "id": 131,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/0/06/The_duo.png?width=325",
+        "name": "The Duo",
+        "rarity": "Rare",
+        "effect": "X2 Mult if played hand contains a Pair.",
+        "availability": "Win a run without playing a Pair."
+    },
+    {
+        "id": 132,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/1/19/The_trio.png?width=325",
+        "name": "The Trio",
+        "rarity": "Rare",
+        "effect": "X2 Mult if played hand contains a Three of a Kind.",
+        "availability": "Win a run without playing a  Three of a Kind."
+    },
+    {
+        "id": 133,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/2/29/The_family.png?width=325",
+        "name": "The Family",
+        "rarity": "Rare",
+        "effect": "X2 Mult if played hand contains a Four of a Kind.",
+        "availability": "Win a run without playing a Four of a Kind."
+    },
+    {
+        "id": 134,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/c/c2/The_order.png?width=325",
+        "name": "The Order",
+        "rarity": "Rare",
+        "effect": "X2 Mult if played hand contains a Straight.",
+        "availability": "Win a run without playing a Straight."
+    },
+    {
+        "id": 135,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/0/03/The_tribe.png?width=325",
+        "name": "The Tribe",
+        "rarity": "Rare",
+        "effect": "X2 Mult if played hand contains a Flush.",
+        "availability": "Win a run without playing a Flush."
+    },
+    {
+        "id": 136,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/9/9b/Stuntman.png?width=325",
+        "name": "Stuntman",
+        "rarity": "Uncommon",
+        "effect": "+300 Chips, -2 hand size.",
+        "availability": "In one hand, earn at least 100,000,000 chips."
+    },
+    {
+        "id": 137,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/c/cc/Invisible_joker.png?width=325",
+        "name": "Invisible Joker",
+        "rarity": "Rare",
+        "effect": "After 3 rounds, sell this card to Duplicate a random Joker.",
+        "availability": "Win a run without ever having more than 4 Jokers."
+    },
+    {
+        "id": 138,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/8/84/Brainstorm.png?width=325",
+        "name": "Brainstorm",
+        "rarity": "Rare",
+        "effect": "Copies the ability of leftmost Joker.",
+        "availability": "Discard aRoyal Flush."
+    },
+    {
+        "id": 139,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/5a/Satellite.png?width=325",
+        "name": "Satellite",
+        "rarity": "Uncommon",
+        "effect": "Earn $1 at end of round per unique Planet card used this run.",
+        "availability": "Have $400 or more."
+    },
+    {
+        "id": 140,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/52/Shoot_the_moon.png?width=325",
+        "name": "Shoot the Moon",
+        "rarity": "Common",
+        "effect": "+13 Mult for each Queen held in hand.",
+        "availability": "Play every Heart in your deck in a single round."
+    },
+    {
+        "id": 141,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/4/4f/Drivers_license.png?width=325",
+        "name": "Driver's License",
+        "rarity": "Rare",
+        "effect": "X3 Mult if you have at least 16 Enhanced cards in your full deck.",
+        "availability": "Enhance 16 cards in your deck."
+    },
+    {
+        "id": 142,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/9/94/Cartomancer.png?width=325",
+        "name": "Cartomancer",
+        "rarity": "Uncommon",
+        "effect": "Create a Tarot card when Blind is selected.",
+        "availability": "Discover every Tarot card."
+    },
+    {
+        "id": 143,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/d/dd/Astronomer.png?width=325",
+        "name": "Astronomer",
+        "rarity": "Uncommon",
+        "effect": "All Planet cards and Celestial Packs in shop are free.",
+        "availability": "Discover every Planet card."
+    },
+    {
+        "id": 144,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/9/91/Burnt_joker.png?width=325",
+        "name": "Burnt Joker",
+        "rarity": "Uncommon",
+        "effect": "Upgrade the level of the first discarded poker hand each round.",
+        "availability": "Sell a total of 50 cards."
+    },
+    {
+        "id": 145,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/e/e3/Bootstraps.png?width=325",
+        "name": "Bootstraps",
+        "rarity": "Uncommon",
+        "effect": "+2 Mult for every $5 you have.",
+        "availability": "Have at least 2 Polychrome Jokers."
+    },
+    {
+        "id": 146,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/7/75/Canio.png?width=325",
+        "name": "Canio",
+        "rarity": "Legendary",
+        "effect": "Gains X1 Mult when a face card is destroyed.",
+        "availability": "Found within the Soul Spectral Card."
+    },
+    {
+        "id": 147,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/9/9f/Triboulet.png?width=325",
+        "name": "Triboulet",
+        "rarity": "Legendary",
+        "effect": "Played Kings and Queens each give X2 Mult when scored.",
+        "availability": "Found within the Soul Spectral Card."
+    },
+    {
+        "id": 148,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/a/ad/Yorick.png?width=325",
+        "name": "Yorick",
+        "rarity": "Legendary",
+        "effect": "X5 Mult only after using 23 discards.",
+        "availability": "Found within the Soul Spectral Card."
+    },
+    {
+        "id": 149,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/8/8e/Chicot.png?width=325",
+        "name": "Chicot",
+        "rarity": "Legendary",
+        "effect": "Disables effect of every Boss Blind.",
+        "availability": "Found within the Soul Spectral Card."
+    },
+    {
+        "id": 150,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/60/Perkeo.png?width=325",
+        "name": "Perkeo",
+        "rarity": "Legendary",
+        "effect": "Creates a Negative copy of 1 random consumable card in your possession at the end of the shop.",
+        "availability": "Found within the Soul Spectral Card."
+    }
+]
