@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/7/7e/Balatro-verdant_leaf.png?width=325",
+        "name": "Verdant Leaf",
+        "base": "2X Base",
+        "description": "All cards debuffed until 1 Joker sold.",
+        "reward": "$8"
+    },
+    {
+        "id": 2,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/4/49/Crimson_heart.png?width=325",
+        "name": "Crimson Heart",
+        "base": "2X Base",
+        "description": "One of your jokers is disabled on every hand.",
+        "reward": "$8"
+    },
+    {
+        "id": 3,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/8/8c/Balatro-Cerulean_Bell.png?width=325",
+        "name": "Cerulean Bell",
+        "base": "2X Base",
+        "description": "Forces 1 card to always be selected.",
+        "reward": "$8"
+    },
+    {
+        "id": 4,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/d/dd/Balatro-amber_acorn.png?width=325",
+        "name": "Amber Acorn",
+        "base": "2X Base",
+        "description": "Flips and shuffles all Joker cards.",
+        "reward": "$8"
+    },
+    {
+        "id": 5,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/f/f9/Balatro-Violet_Vessel.png?width=325",
+        "name": "Violet Vessel",
+        "base": "6X",
+        "description": "Very Large Blind.",
+        "reward": "$8"
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "id": 1,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/8/8b/The_hook.png?width=325",
+        "name": "The Hook",
+        "base": "2X Base",
+        "description": "Discard 2 random cards from your hand after each hand played.",
+        "reward": "$5"
+    },
+    {
+        "id": 2,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/c/c7/The_ox.png?width=325",
+        "name": "The Ox",
+        "base": "2X Base",
+        "description": "Playing your most played hand will set money to $0.",
+        "reward": "$5"
+    },
+    {
+        "id": 3,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/4/44/The_house.png?width=325",
+        "name": "The House",
+        "base": "2X Base",
+        "description": "The first hand of cards is drawn completely face-down.",
+        "reward": "$5"
+    },
+    {
+        "id": 4,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/4/4c/Balatro_Blind-the_wall.png?width=325",
+        "name": "The Wall",
+        "base": "4X Base",
+        "description": "Extra large blind.",
+        "reward": "$5"
+    },
+    {
+        "id": 5,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/f/f1/Balatro_Blind-the_needle.png?width=325",
+        "name": "The Needle",
+        "base": "1X Base",
+        "description": "Play only one, single hand.",
+        "reward": "$5"
+    },
+    {
+        "id": 6,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/3/3f/Balatro_Blind-the_wheel.png?width=325",
+        "name": "The Wheel",
+        "base": "2X Base",
+        "description": "1 in 7 cards are drawn face-down throughout the round.",
+        "reward": "$5"
+    },
+    {
+        "id": 7,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/5e/Balatro-the_arm.png?width=325",
+        "name": "The Arm",
+        "base": "2X Base",
+        "description": "Decrease the level of Hand you play by 1.",
+        "reward": "$5"
+    },
+    {
+        "id": 8,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/f/fc/The_club.png?width=325",
+        "name": "The Club",
+        "base": "2X Base",
+        "description": "All Clubs are debuffed.",
+        "reward": "$5"
+    },
+    {
+        "id": 9,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/e/e6/Balatro-the_goad.png?width=325",
+        "name": "The Goad",
+        "base": "2X Base",
+        "description": "All Spade cards are debuffed.",
+        "reward": "$5"
+    },
+    {
+        "id": 10,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/8/86/The_window.png?width=325",
+        "name": "The Window",
+        "base": "2X Base",
+        "description": "All Diamond cards are debuffed.",
+        "reward": "$5"
+    },
+    {
+        "id": 11,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/1/1e/Balatro-the_head.png?width=325",
+        "name": "The Head",
+        "base": "2X Base",
+        "description": "All Heart cards are debuffed.",
+        "reward": "$5"
+    },
+    {
+        "id": 12,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/55/Balatro_Blind-the_fish.png?width=325",
+        "name": "The Fish",
+        "base": "2X Base",
+        "description": "The cards drawn after you play a hand are drawn face-down.",
+        "reward": "$5"
+    },
+    {
+        "id": 13,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/54/Balatro-the_psychic.png?width=325",
+        "name": "The Psychic",
+        "base": "2X Base",
+        "description": "Hands must have five cards.",
+        "reward": "$5"
+    },
+    {
+        "id": 14,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/b/bb/Balatro-the_manacle.png?width=325",
+        "name": "The Manacle",
+        "base": "2X Base",
+        "description": "-1 hand size for this round.",
+        "reward": "$5"
+    },
+    {
+        "id": 15,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/1/1a/Balatro-the_eye.png?width=325",
+        "name": "The Eye",
+        "base": "2X Base",
+        "description": "Every hand played this round must be a different type, and not previously played this round.",
+        "reward": "$5"
+    },
+    {
+        "id": 16,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/4/4c/The_mouth.png?width=325",
+        "name": "The Mouth",
+        "base": "2X Base",
+        "description": "Only one hand type can be played this round.",
+        "reward": "$5"
+    },
+    {
+        "id": 17,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/f/fa/Balatro-the_plant.png?width=325",
+        "name": "The Plant",
+        "base": "2X Base",
+        "description": "All face cards are debuffed.",
+        "reward": "$5"
+    },
+    {
+        "id": 18,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/2/20/The_serpent.png?width=325",
+        "name": "The Serpent",
+        "base": "2X Base",
+        "description": "After playing a hand or discarding cards, you always draw 3 more cards.",
+        "reward": "$5"
+    },
+    {
+        "id": 19,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/9/9a/Balatro-the_pillar.png?width=325",
+        "name": "The Pillar",
+        "base": "2X Base",
+        "description": "Cards played previously this ante are debuffed.",
+        "reward": "$5"
+    },
+    {
+        "id": 20,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/d/d8/The_tooth.png?width=325",
+        "name": "The Tooth",
+        "base": "2X Base",
+        "description": "Lose $1 per card played.",
+        "reward": "$5"
+    },
+    {
+        "id": 21,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/58/The_flint.png?width=325",
+        "name": "The Flint",
+        "base": "2X Base",
+        "description": "The base chips and Mult for playing a poker hand are halved this round.",
+        "reward": "$5"
+    },
+    {
+        "id": 22,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/b/be/The_mark.png?width=325",
+        "name": "The Mark",
+        "base": "2X Base",
+        "description": "All face cards are drawn face-down.",
+        "reward": "$5"
+    },
+    {
+        "id": 23,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/f/fa/Balatro-the_water.png?width=325",
+        "name": "The Water",
+        "base": "2X Base",
+        "description": "Start the round with no discards.",
+        "reward": "$5"
+    }
+]
