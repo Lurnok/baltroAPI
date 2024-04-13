@@ -4,9 +4,10 @@ import { AppService } from './app.service';
 import { JokerModule } from './joker/joker.module';
 import { BlindModule } from './blind/blind.module';
 import { BossblindModule } from './bossblind/bossblind.module';
+import { DeckModule } from './deck/deck.module';
 
 @Module({
-  imports: [JokerModule, BlindModule, BossblindModule],
+  imports: [JokerModule, BlindModule, BossblindModule, DeckModule],
   controllers: [AppController],
   providers: [AppService],
 })

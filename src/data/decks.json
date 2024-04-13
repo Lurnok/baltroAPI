@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/4/49/Balatro-red_deck.png?width=325",
+        "name": "Red Deck",
+        "description": "+1 discard every round.",
+        "unlock": "The base starting deck."
+    },
+    {
+        "id": 2,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/1/14/Balatro-blue_deck.png?width=325",
+        "name": "Blue Deck",
+        "description": "+1 hand every round.",
+        "unlock": "Discover at least 20 items from your collection."
+    },
+    {
+        "id": 3,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/5/51/Balatro-yellow_deck.png?width=325",
+        "name": "Yellow Deck",
+        "description": "Start with extra $10.",
+        "unlock": "Discover at least 50 items from your collection."
+    },
+    {
+        "id": 4,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/b/b1/Balatro-green_deck.png?width=325",
+        "name": "Green Deck",
+        "description": "At end of each Round: +$2 per remaining Hand. +$1 per remaining Discard. -Earn no Interest.",
+        "unlock": "Discover at least  75 items from your collection."
+    },
+    {
+        "id": 5,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/c/cc/Balatro-black_deck.png?width=325",
+        "name": "Black Deck",
+        "description": "+1 Joker slot, but -1 hand every round.",
+        "unlock": "Discover at least 100 items from your collection."
+    },
+    {
+        "id": 6,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/2/27/Balatro-magic_deck.png?width=325",
+        "name": "Magic Deck",
+        "description": "Start run with the Crystal Ball voucher and 2 copies of The Fool.",
+        "unlock": "Win a run with the Red Deck on any difficulty."
+    },
+    {
+        "id": 7,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/3/3e/Balatro-nebula_deck.png?width=325",
+        "name": "Nebula Deck",
+        "description": "Start run with the Telescope voucher but -1 consumable slot.",
+        "unlock": "Win a run with the Blue Deck on any difficulty."
+    },
+    {
+        "id": 8,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/7/7e/Balatro-ghost_deck.png?width=325",
+        "name": "Ghost Deck",
+        "description": "Spectral cards may appear individually in the shop, and you start with a Hex card.",
+        "unlock": "Win a run with the Yellow Deck on any difficulty."
+    },
+    {
+        "id": 9,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/7/7c/Balatro-abandoned_deck.png?width=325",
+        "name": "Abandoned Deck",
+        "description": "Start run with no Face Cards in your deck.",
+        "unlock": "Win a run with the Green deck on any difficulty."
+    },
+    {
+        "id": 10,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/6/65/Balatro-checkered_deck.png?width=325",
+        "name": "Checkered Deck",
+        "description": "Start run with 26 Spades and 26 Hearts in deck.",
+        "unlock": "Win a run with the Black Deck on any difficulty."
+    },
+    {
+        "id": 11,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/b/b2/Balatro-zodiac_deck.png?width=325",
+        "name": "Zodiac Deck",
+        "description": "Start run with Tarot Merchant, Planet Merchant, Overstock.",
+        "unlock": "Win a run with any deck on the Red Stake difficulty or harder."
+    },
+    {
+        "id": 12,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/a/a9/Balatro-painted_deck.png?width=325",
+        "name": "Painted Deck",
+        "description": "+2 hand size, -1 Joker slot.",
+        "unlock": "Win a run with any deck on the Green Stake difficulty or harder."
+    },
+    {
+        "id": 13,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/0/02/Balatro-anaglyph_deck.png?width=325",
+        "name": "Anaglyph Deck",
+        "description": "After defeating each Boss Blind, gain a Double Tag.",
+        "unlock": "Win a run with any deck on the Black Stake difficulty or harder."
+    },
+    {
+        "id": 14,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/0/0f/Balatro-plasma_deck.png?width=325",
+        "name": "Plasma Deck",
+        "description": "Balance Chips and Mult when calculating score for played hand X2 base Blind size.",
+        "unlock": "Win a run with any deck on the Blue Stake difficulty or harder."
+    },
+    {
+        "id": 15,
+        "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/balatro/e/e3/Balatro-erratic_deck.png?width=325",
+        "name": "Erratic Deck",
+        "description": "All Ranks and Suits in deck are randomized.",
+        "unlock": "Win a run with any deck on the Orange Stake difficulty or harder."
+    }
+]
