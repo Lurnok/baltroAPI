@@ -38,4 +38,28 @@ $ npm run start:prod
 - **Endpoint**: `/joker/rarity/{rarity}`
 - **Description**: Returns the joker with the specified rarity. Possible rarities are common, uncommon, rare, or legendary.
 
+### Blinds
+
+#### Retrieve ALL Blinds
+- **Method**: `GET`
+- **Endpoint**: `/blind/all`
+- **Description**: Returns a list of all available blinds.
+
+#### Retrieve Blind by ID
+- **Method**: `GET`
+- **Endpoint**: `/blind/{id}`
+- **Description**: Returns the blind with the specified ID.
+
+### Boss blinds
+
+#### Retrieve ALL boss blinds
+- **Method**: `GET`
+- **Endpoint**: `/bossblind/all`
+- **Description**: Returns a list of all available boss blinds.
+
+#### Retrieve boss blind by ID
+- **Method**: `GET`
+- **Endpoint**: `/bossblind/{id}`
+- **Description**: Returns the boss blind with the specified ID.
+
 ## Made by Lurnok
